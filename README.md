@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my LinkedIn profile
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: none applicable 
+- ⚡ Fun fact: none applicable 😁🧍🏾‍♀️
 
 <!---
 ChantelRM/ChantelRM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
