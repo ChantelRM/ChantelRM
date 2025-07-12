@@ -45,7 +45,7 @@ What started as a love for solving problems turned into a deep interest in how t
 I’m always open to connecting with fellow developers, analysts, project managers, and anyone passionate about tech. Whether it’s collaboration, mentorship, or just tech talk—let’s build together!
 
 📫 **Email:** chantelmuthaphuli@gmail.com  
-🌐 **LinkedIn:** [](https://linkedin.com)
+🌐 **LinkedIn:** [https://www.linkedin.com/in/chantel-r-muthaphuli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com)
 
 ---
 
