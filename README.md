@@ -1,4 +1,4 @@
--# 👋🏾 Hi, I'm Chantel Reabetwse Muthaphuli
+## 👋🏾 Hi, I'm Chantel Reabetwse Muthaphuli
 
 🎓 Recent graduate with a **Bachelor of Information Technology in Business Systems**  
 💻 Aspiring IT professional passionate about building smart, efficient solutions  
