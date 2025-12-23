@@ -38,9 +38,9 @@ What started as a love for solving problems turned into a deep interest in how t
 - Databases: `MySQL`, `Microsoft SQL Server`  
 - Other: `Microsoft 365`, `Google Workspace`, `Git`, `GitHub`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelRM&layout=compact)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ChantelRM&show_icons=true)
 
 ---
 
