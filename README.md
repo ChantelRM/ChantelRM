@@ -33,10 +33,14 @@ What started as a love for solving problems turned into a deep interest in how t
 
 ## 🛠️ Tech & Tools
 
-- Languages: `Java`, `SQL`, `HTML`, `CSS`, `R`  
+- Languages: `Python`, `Java`, `SQL`, `HTML`, `CSS`, `R`  
 - Tools: `Tableau`, `R Studio`, `Lucidchart`, `Camunda`, `Microsoft Project`  
 - Databases: `MySQL`, `Microsoft SQL Server`  
 - Other: `Microsoft 365`, `Google Workspace`, `Git`, `GitHub`
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
