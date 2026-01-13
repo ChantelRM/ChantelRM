@@ -1,6 +1,6 @@
-## 👋🏾 Hi, I'm Chantel Reabetwse Muthaphuli
+## 👋🏾 Hi, I'm Chantel Reabetswe Muthaphuli
 
-🎓 Recent graduate with a **Bachelor of Information Technology in Business Systems**  
+🎓 Recent graduate with a **Bachelor of Information Technology in Business Systems** and currently a **Software Engineering** student.
 💻 Aspiring IT professional passionate about building smart, efficient solutions  
 🌍 Based in South Africa | Open to global remote opportunities
 
@@ -23,11 +23,11 @@ What started as a love for solving problems turned into a deep interest in how t
 ## 🌱 Currently Learning
 
 - **AWS Machine Learning Foundations** *(completed)*  
-- **AI & Machine Learning Nanodegree** *(in progress)*  
 - Strengthening my skills in:
   - Machine Learning concepts  
   - Model evaluation & data preprocessing  
-  - Python (Pandas, scikit-learn)
+  - Python 
+  - Java
 
 ---
 
