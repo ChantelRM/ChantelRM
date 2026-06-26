@@ -51,28 +51,19 @@ Beyond coding, I enjoy mentoring others as a **Peer Tutor at WeThinkCode_**, whe
 </p>
 
 ### Languages
-
 `Java` `Python` `SQL` `HTML` `CSS` `R`
 
 ### Databases
-
 `MySQL` `Microsoft SQL Server`
 
 ### Tools
-
 `Git` `GitHub` `Maven` `Linux` `VS Code`
 
 ### Data & Analytics
-
 `Microsoft` `Excel` `Google Sheets` `Tableau`
 
-Other
-
-- Google Workspace
-- Microsoft 365
-- Lucidchart
-- Camunda
-- Microsoft Project
+### Other
+`Google Workspace` `Microsoft 365` `Lucidchart` `Camunda` `Microsoft Project`
 
 ## GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelRM&theme=github_dark)
