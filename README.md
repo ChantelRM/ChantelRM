@@ -1,48 +1,94 @@
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ## 👋🏾 Hi, I'm Chantel Reabetswe Muthaphuli
 
-🎓 Recent graduate with a **Bachelor of Information Technology in Business Systems** and currently a **Software Engineering** student.
-💻 Aspiring IT professional passionate about building smart, efficient solutions  
-🌍 Based in South Africa | Open to global remote opportunities
-
----
+- 🎓 Information Technology graduate and Software Engineering student at **WeThinkCode_**
+- 💻 Passionate about Software Engineering, Data Analytics, Machine Learning and Quality Engineering
+- 🌍 Based in South Africa | Open to graduate opportunities, internships and collaborations
 
 ## 🚀 About Me
 
-I'm a curious, motivated and growth-driven individual stepping into the world of tech with a strong foundation in:
+I'm an **Information Technology** graduate with a background in **Business Systems** and currently pursuing an Occupational **Diploma in Software Engineering**.
 
-- Business Analysis  
-- Project Management  
-- Information Systems Strategy  
-- Data Analysis & Visualisation  
-- ERP Systems & Process Modelling  
+I enjoy solving real-world problems through technology and have experience working on collaborative software engineering, machine learning and business analysis projects. My interests span software development, data analytics, software testing and AI, where I enjoy combining analytical thinking with practical problem-solving.
 
-What started as a love for solving problems turned into a deep interest in how technology can improve systems and people’s lives. Through my academic journey, I’ve not only built technical skills, but also cultivated **discipline**, **resilience**, and a **strong work ethic**.
+Beyond coding, I enjoy mentoring others as a **Peer Tutor at WeThinkCode_**, where I facilitate learning sessions, review code and support students in developing their programming and problem-solving skills.
 
----
+## 🌱 Current Focus
+- ☕ `Java` & `Object-Oriented Programming`
+- 🐍 `Python`
+- 🤖 Machine Learning & Computer Vision
+- 🧪 Software Testing & Test Automation
+- 📊 Data Analytics & `SQL`
+- 🌐 Building collaborative software projects
 
-## 🌱 Currently Learning
+## 💼 Featured Projects
+### 🤟 South African Sign Language (SASL) Recognition System
+- Contributed to a **machine learning project** for **South African Sign Language** recognition using MediaPipe.
+- Assisted with dataset collection, preprocessing, validation and model improvement.
+- Worked collaboratively using Git and Agile development practices.
 
-- **AWS Machine Learning Foundations** *(completed)*  
-- Strengthening my skills in:
-  - Machine Learning concepts  
-  - Model evaluation & data preprocessing  
-  - Python 
-  - Java
+## 🎓 Peer Tutor @ WeThinkCode_
+- Facilitate workshops and code clinics covering Python, Java and Object-Oriented Programming.
+- Design quizzes and learning material.
+- Mentor students through debugging sessions and code reviews.
 
----
+## 🛠️ Tech Stack
+<p align="center">
 
-## 🛠️ Tech & Tools
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-- Languages: `Python`, `Java`, `SQL`, `HTML`, `CSS`, `R`  
-- Tools: `Tableau`, `R Studio`, `Lucidchart`, `Camunda`, `Microsoft Project`  
-- Databases: `MySQL`, `Microsoft SQL Server`  
-- Other: `Microsoft 365`, `Google Workspace`, `Git`, `GitHub`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelRM&layout=compact)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ChantelRM&show_icons=true)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+### Languages
+
+`Java` `Python` `SQL` `HTML` `CSS` `R`
+
+### Databases
+
+`MySQL` `Microsoft SQL Server`
+
+### Tools
+
+`Git` `GitHub` `Maven` `Linux` `VS Code`
+
+### Data & Analytics
+
+`Microsoft` `Excel` `Google Sheets` `Tableau`
+
+Other
+
+- Google Workspace
+- Microsoft 365
+- Lucidchart
+- Camunda
+- Microsoft Project
+
+## GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelRM&theme=github_dark)
+
+### 📊 Contribution Graph
+
+[![Chantel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChantelRM&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChantelRM&theme=tokyonight)](https://git.io/streak-stats)
+
+### Top Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChantelRM&theme=github_dark)
+
+
 
 ## 💬 Let’s Connect!
 
