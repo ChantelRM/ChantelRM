@@ -4,7 +4,7 @@
 
 ## 👋🏾 Hi, I'm Chantel Reabetswe Muthaphuli
 
-- 🎓 Information Technology graduate and Software Engineering student at **WeThinkCode_**
+- 🎓 **Information Technology graduate** and **Software Engineering** student at **WeThinkCode_**
 - 💻 Passionate about Software Engineering, Data Analytics, Machine Learning and Quality Engineering
 - 🌍 Based in South Africa | Open to graduate opportunities, internships and collaborations
 
