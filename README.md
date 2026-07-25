@@ -1,5 +1,3 @@
-## 💭 Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 👋🏾 Hi, I'm Chantel Reabetswe Muthaphuli
@@ -75,10 +73,6 @@ Beyond coding, I enjoy mentoring others as a **Peer Tutor at WeThinkCode_**, whe
 ### 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChantelRM&theme=tokyonight)](https://git.io/streak-stats)
-
-### Top Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChantelRM&theme=github_dark)
-
 
 
 ## 💬 Let’s Connect!
